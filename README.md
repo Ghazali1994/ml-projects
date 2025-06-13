@@ -14,3 +14,12 @@
 **Key Learning**: Random Forest gave higher accuracy and used multiple features  
 **Bonus**: Feature importance showed 'sex' and 'fare' were most important
 
+# CNN Classifier on MNIST
+
+**Dataset**: MNIST handwritten digits (28x28 grayscale images)  
+**Goal**: Classify digits 0–9 using a Convolutional Neural Network  
+**Model**: 2 Conv layers + MaxPooling + Dense  
+**Result**: Achieved ~98% test accuracy  
+**What I Learned**: CNNs learn image patterns automatically and generalize better than dense-only models
+
+
